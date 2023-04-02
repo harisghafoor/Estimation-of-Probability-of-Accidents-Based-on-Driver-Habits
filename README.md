@@ -1,4 +1,2 @@
 # Estimation of Probability of Accidents Based on Driver Habits
- This repo contains the details about the algorithm development for the calcaulation of probability of accidents based on driver's profile. It also provides the report card of the driver in which driver is given grade based on certain indicators for safe driving i.e smoking, drinking , age etc
-# Overview of Methodology and Initial Results
-
+ This repo contains the details about the algorithm development for the calcaulation of probability of accidents based on driver's profile..We can provide the possibility for a road accident by considering some factors related to drivers and their driving styles. We can predict how time (day and night), health (physical and mental), driving style, drinking, age, use of mobile phones could increase and decrease the probability of an accident. This will help us a lot to predict the accidents and to control them by making suitable strategies to overcome these problems caused due to driver’s behavior. 
